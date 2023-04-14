@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="BlueLine">
+  <LineStyle>
+    <color>ffff0000</color>
+    <width>2</width>
+  </LineStyle>
+</Style>
+<Style id="BlackBalloon">
+  <BalloonStyle>
+    <color>ffff0000</color>
+  </BalloonStyle>
+  <IconStyle>
+    <color>ffff0000</color>
+  </IconStyle>
+</Style>
+<Style id="RedBalloon">
+  <BalloonStyle>
+    <color>ff0000ff</color>
+  </BalloonStyle>
+  <IconStyle>
+    <color>ff0000ff</color>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>Youngstown OH</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-80.65,41.1,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Yankton SD</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-97.39,42.88,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Yakima WA</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-120.51,46.6,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Worcester MA</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-71.8,42.27,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Wisconsin Dells WI</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-89.77,43.63,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Winston-Salem NC</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-80.25,36.1,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Winnipeg MB</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-97.15,49.88,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Winchester VA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-78.16,39.19,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Wilmington NC</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-77.92,34.24,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Wilmington DE</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-75.55,39.75,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Williston ND</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-103.62,48.15,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Williamsport PA</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-77.0,41.25,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Williamson WV</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-82.28,37.68,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Wichita Falls TX</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-98.49,33.9,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Wichita KS</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-97.34,37.69,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Wheeling WV</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-80.72,40.07,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>West Palm Beach FL</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-80.05,26.72,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Wenatchee WA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-120.32,47.42,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Weed CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-122.39,41.42,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Waycross GA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-82.35,31.22,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Wausau WI</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-89.64,44.96,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Waukegan IL</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-87.83,42.36,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Watertown SD</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-97.11,44.9,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Watertown NY</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-75.92,43.98,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Waterloo IA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-92.34,42.5,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Waterbury CT</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-73.05,41.55,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Washington DC</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-77.03,38.89,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Warren PA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-79.14,41.85,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Walla Walla WA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-118.33,46.07,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Waco TX</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-97.14,31.55,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Vincennes IN</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-87.53,38.68,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Victoria TX</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-97.01,28.81,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Vicksburg MS</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-90.88,32.35,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Vancouver BC</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-123.12,49.27,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Valley City ND</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-98.01,46.92,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Valdosta GA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-83.28,30.83,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Utica NY</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-75.23,43.11,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Uniontown PA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-79.73,39.9,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Tyler TX</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-95.3,32.35,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Twin Falls ID</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-114.47,42.56,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Tuscaloosa AL</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-87.57,33.21,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Tupelo MS</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-88.71,34.26,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Tulsa OK</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-95.91,36.16,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Tucson AZ</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-110.97,32.22,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Trinidad CO</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-104.51,37.17,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Trenton NJ</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-74.77,40.23,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Traverse City MI</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-85.63,44.76,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Toronto ON</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-79.38,43.65,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Topeka KS</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-95.67,39.05,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Toledo OH</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-83.54,41.65,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Texarkana TX</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-94.05,33.43,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Terre Haute IN</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-87.41,39.47,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Tampa FL</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-82.45,27.95,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Tallahassee FL</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-84.28,30.45,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Tacoma WA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-122.43,47.24,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Syracuse NY</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-76.15,43.05,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Swainsboro GA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-82.34,32.6,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sumter SC</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-80.35,33.92,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Stroudsburg PA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-75.19,40.99,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Stockton CA</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-121.29,37.96,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Stevens Point WI</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-89.57,44.52,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Steubenville OH</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-80.62,40.36,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sterling CO</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-103.22,40.62,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Staunton VA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-79.07,38.15,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Springfield OH</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-83.81,39.92,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Springfield MO</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-93.29,37.22,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Springfield MA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-72.59,42.1,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Springfield IL</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-89.65,39.8,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Spokane WA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-117.41,47.67,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>South Bend IN</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-86.25,41.68,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sioux Falls SD</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-96.73,43.54,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sioux City IA</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-96.39,42.49,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Shreveport LA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-93.75,32.51,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sherman TX</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-96.61,33.64,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sheridan WY</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-106.96,44.8,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Seminole OK</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-96.68,35.23,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Selma AL</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-87.02,32.42,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sedalia MO</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-93.23,38.71,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Seattle WA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-122.33,47.6,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Scranton PA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-75.67,41.41,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Scottsbluff NE</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-103.66,41.87,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Schenectady NY</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-73.95,42.82,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Savannah GA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-81.09,32.08,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sault Sainte Marie MI</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-84.35,46.49,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sarasota FL</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-82.53,27.34,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Santa Rosa CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-122.72,38.44,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Santa Fe NM</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-105.95,35.68,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Santa Barbara CA</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-119.7,34.42,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Santa Ana CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-117.87,33.76,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>San Jose CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-121.88,37.34,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>San Francisco CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-122.42,37.78,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sandusky OH</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-82.71,41.45,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>San Diego CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-117.15,32.71,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>San Bernardino CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-117.31,34.11,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>San Antonio TX</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-98.5,29.42,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>San Angelo TX</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-100.44,31.46,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Salt Lake City UT</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-111.88,40.76,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Salisbury MD</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-75.6,38.37,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Salinas CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-121.65,36.67,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Salina KS</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-97.61,38.84,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Salida CO</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-106.0,38.53,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Salem OR</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-123.03,44.94,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Saint Paul MN</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-93.1,44.95,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Saint Louis MO</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-90.19,38.62,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Saint Joseph MO</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-94.84,39.77,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Saint Joseph MI</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-86.48,42.1,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Saint Johnsbury VT</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-72.02,44.42,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Saint Cloud MN</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-94.17,45.57,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Saint Augustine FL</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-81.32,29.89,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Saginaw MI</name>/n  <description>Facility</description>
+  <styleUrl>#BlackBalloon</styleUrl>
+  <Point>
+    <coordinates>-83.94,43.43,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sacramento CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-121.49,38.59,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Rutland VT</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-72.97,43.61,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Roswell NM</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-104.53,33.4,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Rocky Mount NC</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-77.8,35.94,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Rock Springs WY</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-109.23,41.59,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Rockford IL</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-89.1,42.27,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Rochester NY</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-77.61,43.16,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Rochester MN</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-92.46,44.02,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Roanoke VA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-79.94,37.27,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Richmond VA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-77.45,37.54,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Richmond IN</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-84.89,39.83,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Richfield UT</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-112.09,38.77,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Rhinelander WI</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-89.42,45.64,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Reno NV</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-119.81,39.52,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Regina SK</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-104.65,50.42,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Red Bluff CA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-122.24,40.18,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Reading PA</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-75.93,40.33,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Ravenna OH</name>/n  <description>City</description>
+  <styleUrl>#RedBalloon</styleUrl>
+  <Point>
+    <coordinates>-81.24,41.16,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Youngstown OH to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-80.65,41.1,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Yankton SD to Sioux City IA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-97.39,42.88,0,-96.39,42.49,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Yakima WA to Yakima WA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-120.51,46.6,0,-120.51,46.6,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Worcester MA to Worcester MA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-71.8,42.27,0,-71.8,42.27,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Wisconsin Dells WI to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-89.77,43.63,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Winston-Salem NC to Winston-Salem NC</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-80.25,36.1,0,-80.25,36.1,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Winnipeg MB to Winnipeg MB</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-97.15,49.88,0,-97.15,49.88,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Winchester VA to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-78.16,39.19,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Wilmington NC to Winston-Salem NC</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-77.92,34.24,0,-80.25,36.1,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Wilmington DE to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-75.55,39.75,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Williston ND to Williston ND</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-103.62,48.15,0,-103.62,48.15,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Williamsport PA to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-77.0,41.25,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Williamson WV to Winston-Salem NC</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-82.28,37.68,0,-80.25,36.1,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Wichita Falls TX to Waco TX</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-98.49,33.9,0,-97.14,31.55,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Wichita KS to Sedalia MO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-97.34,37.69,0,-93.23,38.71,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Wheeling WV to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-80.72,40.07,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>West Palm Beach FL to West Palm Beach FL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-80.05,26.72,0,-80.05,26.72,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Wenatchee WA to Yakima WA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-120.32,47.42,0,-120.51,46.6,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Weed CA to Stockton CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-122.39,41.42,0,-121.29,37.96,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Waycross GA to Tallahassee FL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-82.35,31.22,0,-84.28,30.45,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Wausau WI to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-89.64,44.96,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Waukegan IL to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-87.83,42.36,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Watertown SD to Sioux City IA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-97.11,44.9,0,-96.39,42.49,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Watertown NY to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-75.92,43.98,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Waterloo IA to Sioux City IA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-92.34,42.5,0,-96.39,42.49,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Waterbury CT to Worcester MA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-73.05,41.55,0,-71.8,42.27,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Washington DC to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-77.03,38.89,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Warren PA to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-79.14,41.85,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Walla Walla WA to Yakima WA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-118.33,46.07,0,-120.51,46.6,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Waco TX to Waco TX</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-97.14,31.55,0,-97.14,31.55,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Vincennes IN to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-87.53,38.68,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Victoria TX to Waco TX</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-97.01,28.81,0,-97.14,31.55,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Vicksburg MS to Vicksburg MS</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-90.88,32.35,0,-90.88,32.35,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Vancouver BC to Yakima WA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-123.12,49.27,0,-120.51,46.6,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Valley City ND to Winnipeg MB</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-98.01,46.92,0,-97.15,49.88,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Valdosta GA to Tallahassee FL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-83.28,30.83,0,-84.28,30.45,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Utica NY to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-75.23,43.11,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Uniontown PA to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-79.73,39.9,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Tyler TX to Waco TX</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-95.3,32.35,0,-97.14,31.55,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Twin Falls ID to Salt Lake City UT</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-114.47,42.56,0,-111.88,40.76,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Tuscaloosa AL to Vicksburg MS</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-87.57,33.21,0,-90.88,32.35,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Tupelo MS to Vicksburg MS</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-88.71,34.26,0,-90.88,32.35,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Tulsa OK to Sedalia MO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-95.91,36.16,0,-93.23,38.71,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Tucson AZ to Tucson AZ</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-110.97,32.22,0,-110.97,32.22,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Trinidad CO to Trinidad CO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-104.51,37.17,0,-104.51,37.17,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Trenton NJ to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-74.77,40.23,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Traverse City MI to Saginaw MI</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-85.63,44.76,0,-83.94,43.43,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Toronto ON to Saginaw MI</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-79.38,43.65,0,-83.94,43.43,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Topeka KS to Sedalia MO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-95.67,39.05,0,-93.23,38.71,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Toledo OH to Saginaw MI</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-83.54,41.65,0,-83.94,43.43,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Texarkana TX to Vicksburg MS</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-94.05,33.43,0,-90.88,32.35,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Terre Haute IN to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-87.41,39.47,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Tampa FL to West Palm Beach FL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-82.45,27.95,0,-80.05,26.72,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Tallahassee FL to Tallahassee FL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-84.28,30.45,0,-84.28,30.45,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Tacoma WA to Yakima WA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-122.43,47.24,0,-120.51,46.6,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Syracuse NY to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-76.15,43.05,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Swainsboro GA to Tallahassee FL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-82.34,32.6,0,-84.28,30.45,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sumter SC to Winston-Salem NC</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-80.35,33.92,0,-80.25,36.1,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Stroudsburg PA to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-75.19,40.99,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Stockton CA to Stockton CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-121.29,37.96,0,-121.29,37.96,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Stevens Point WI to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-89.57,44.52,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Steubenville OH to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-80.62,40.36,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sterling CO to Sterling CO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-103.22,40.62,0,-103.22,40.62,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Staunton VA to Winston-Salem NC</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-79.07,38.15,0,-80.25,36.1,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Springfield OH to Saginaw MI</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-83.81,39.92,0,-83.94,43.43,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Springfield MO to Sedalia MO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-93.29,37.22,0,-93.23,38.71,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Springfield MA to Worcester MA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-72.59,42.1,0,-71.8,42.27,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Springfield IL to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-89.65,39.8,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Spokane WA to Yakima WA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-117.41,47.67,0,-120.51,46.6,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>South Bend IN to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-86.25,41.68,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sioux Falls SD to Sioux City IA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-96.73,43.54,0,-96.39,42.49,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sioux City IA to Sioux City IA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-96.39,42.49,0,-96.39,42.49,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Shreveport LA to Vicksburg MS</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-93.75,32.51,0,-90.88,32.35,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sherman TX to Waco TX</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-96.61,33.64,0,-97.14,31.55,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sheridan WY to Sheridan WY</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-106.96,44.8,0,-106.96,44.8,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Seminole OK to Waco TX</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-96.68,35.23,0,-97.14,31.55,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Selma AL to Vicksburg MS</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-87.02,32.42,0,-90.88,32.35,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sedalia MO to Sedalia MO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-93.23,38.71,0,-93.23,38.71,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Seattle WA to Yakima WA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-122.33,47.6,0,-120.51,46.6,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Scranton PA to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-75.67,41.41,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Scottsbluff NE to Sterling CO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-103.66,41.87,0,-103.22,40.62,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Schenectady NY to Worcester MA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-73.95,42.82,0,-71.8,42.27,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Savannah GA to Tallahassee FL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-81.09,32.08,0,-84.28,30.45,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sault Sainte Marie MI to Saginaw MI</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-84.35,46.49,0,-83.94,43.43,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sarasota FL to West Palm Beach FL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-82.53,27.34,0,-80.05,26.72,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Santa Rosa CA to Stockton CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-122.72,38.44,0,-121.29,37.96,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Santa Fe NM to Santa Fe NM</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-105.95,35.68,0,-105.95,35.68,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Santa Barbara CA to Santa Barbara CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-119.7,34.42,0,-119.7,34.42,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Santa Ana CA to Santa Barbara CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-117.87,33.76,0,-119.7,34.42,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>San Jose CA to Stockton CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-121.88,37.34,0,-121.29,37.96,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>San Francisco CA to Stockton CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-122.42,37.78,0,-121.29,37.96,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sandusky OH to Saginaw MI</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-82.71,41.45,0,-83.94,43.43,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>San Diego CA to Santa Barbara CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-117.15,32.71,0,-119.7,34.42,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>San Bernardino CA to Santa Barbara CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-117.31,34.11,0,-119.7,34.42,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>San Antonio TX to Waco TX</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-98.5,29.42,0,-97.14,31.55,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>San Angelo TX to Waco TX</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-100.44,31.46,0,-97.14,31.55,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Salt Lake City UT to Salt Lake City UT</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-111.88,40.76,0,-111.88,40.76,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Salisbury MD to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-75.6,38.37,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Salinas CA to Stockton CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-121.65,36.67,0,-121.29,37.96,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Salina KS to Sedalia MO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-97.61,38.84,0,-93.23,38.71,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Salida CO to Trinidad CO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-106.0,38.53,0,-104.51,37.17,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Salem OR to Yakima WA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-123.03,44.94,0,-120.51,46.6,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Saint Paul MN to Sioux City IA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-93.1,44.95,0,-96.39,42.49,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Saint Louis MO to Sedalia MO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-90.19,38.62,0,-93.23,38.71,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Saint Joseph MO to Sedalia MO</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-94.84,39.77,0,-93.23,38.71,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Saint Joseph MI to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-86.48,42.1,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Saint Johnsbury VT to Worcester MA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-72.02,44.42,0,-71.8,42.27,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Saint Cloud MN to Sioux City IA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-94.17,45.57,0,-96.39,42.49,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Saint Augustine FL to Tallahassee FL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-81.32,29.89,0,-84.28,30.45,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Saginaw MI to Saginaw MI</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-83.94,43.43,0,-83.94,43.43,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Sacramento CA to Stockton CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-121.49,38.59,0,-121.29,37.96,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Rutland VT to Worcester MA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-72.97,43.61,0,-71.8,42.27,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Roswell NM to Santa Fe NM</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-104.53,33.4,0,-105.95,35.68,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Rocky Mount NC to Winston-Salem NC</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-77.8,35.94,0,-80.25,36.1,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Rock Springs WY to Salt Lake City UT</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-109.23,41.59,0,-111.88,40.76,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Rockford IL to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-89.1,42.27,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Rochester NY to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-77.61,43.16,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Rochester MN to Sioux City IA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-92.46,44.02,0,-96.39,42.49,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Roanoke VA to Winston-Salem NC</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-79.94,37.27,0,-80.25,36.1,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Richmond VA to Winston-Salem NC</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-77.45,37.54,0,-80.25,36.1,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Richmond IN to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-84.89,39.83,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Richfield UT to Salt Lake City UT</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-112.09,38.77,0,-111.88,40.76,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Rhinelander WI to Waukegan IL</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-89.42,45.64,0,-87.83,42.36,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Reno NV to Stockton CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-119.81,39.52,0,-121.29,37.96,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Regina SK to Williston ND</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-104.65,50.42,0,-103.62,48.15,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Red Bluff CA to Stockton CA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-122.24,40.18,0,-121.29,37.96,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Reading PA to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-75.93,40.33,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <name>Edge</name>/n  <description>Ravenna OH to Williamsport PA</description>
+  <styleUrl>#BlueLine</styleUrl>
+  <LineString>
+    <coordinates>-81.24,41.16,0,-77.0,41.25,0</coordinates>
+  </LineString>
+</Placemark>
+</Document>
+</kml>
